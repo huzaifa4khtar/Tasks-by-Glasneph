@@ -150,7 +150,7 @@ flutter build apk --release --no-tree-shake-icons
 
 ## Download
 
-> Download link will be available after Play Store upload.
+> Download the latest APK from [GitHub Releases](https://github.com/huzaifa4khtar/Tasks-by-Glasneph/releases/tag/v1.0.0).
 
 ---
 
