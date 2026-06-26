@@ -1,0 +1,71 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.atom/
+.build/
+.buildlog/
+.history
+.migrate_working_dir/
+.swiftpm/
+svn/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Flutter/Dart/Pub
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+**/build/
+/coverage/
+app.*.symbols
+app.*.map.json
+
+# Android
+**/android/.gradle/
+**/android/local.properties
+**/android/app/debug
+**/android/app/profile
+**/android/app/release
+**/.kotlin/
+
+# iOS
+**/ios/Pods/
+**/ios/Runner/GoogleService-Info.plist
+
+# Firebase — never commit real config
+**/android/app/google-services.json
+
+# App signing — catastrophic if exposed
+android/key.properties
+key.properties
+*.jks
+*.keystore
+*.p12
+
+# Build outputs
+*.apk
+*.aab
+
+# Environment and secrets
+.env
+.env.*
+*.local
+
+# Node modules (Cloud Functions)
+**/node_modules/
