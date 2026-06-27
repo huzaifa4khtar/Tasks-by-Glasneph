@@ -23,6 +23,8 @@
 - [Getting Started](#getting-started)
 - [Download](#download)
 - [Author](#author)
+- [Company](#company)
+- [Legal Documentation](#legal-documentation)
 - [UI Screenshots](#ui-screenshots)
 
 ## List of Tables
@@ -173,6 +175,14 @@ single click download links:
 **Glasneph™**
 - Github: [glasneph](https://github.com/glasneph)
 - Instagram: [@glasneph](https://www.instagram.com/glasneph/)
+
+---
+
+## Legal Documentation
+
+- [Privacy Policy](https://glasneph.github.io/tasks_legal_documentation/privacy_policy.html)
+- [End User License Agreement](https://glasneph.github.io/tasks_legal_documentation/end_user_license_agreement.html)
+- [Terms and Conditions](https://glasneph.github.io/tasks_legal_documentation/terms_and_conditions.html)
 
 ---
 
