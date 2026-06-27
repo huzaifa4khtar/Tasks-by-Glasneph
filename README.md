@@ -144,8 +144,6 @@ README.md
 ### Build Release
 
 ```bash
-# Android (AAB for Play Store)
-flutter build appbundle --release --no-tree-shake-icons
 
 # Android (APK for direct install)
 flutter build apk --release --no-tree-shake-icons
