@@ -82,10 +82,6 @@ Everything syncs to the cloud using Firebase, so your data is always safe and av
 ## Project Structure
 
 ```
-legal_documentation/
-├── end_user_license_agreement                    
-├── terms_and_conditions                 
-└──  end_user_license_agreement
 source_code/
 ├── lib/
 │   ├── main.dart              -> App entry, Firebase init, AuthGate
