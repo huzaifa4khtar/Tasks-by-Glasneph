@@ -141,13 +141,11 @@ README.md
    flutter run
    ```
 
-### Build Release
+### Build Debug Apk
 
-```bash
-
-# Android (APK for direct install)
-flutter build apk --release --no-tree-shake-icons
-```
+   ```bash
+   flutter build apk --debug --no-tree-shake-icons
+   ```
 
 > **Note:** The `--no-tree-shake-icons` flag is required because some screens use non-constant `IconData` instances with custom colors (e.g., colorful list icons on the Home and My Lists screens), this inconsitency is not an problem, its intentional by the developer, so simply add the flag at the end, without it, Flutter's icon tree-shaking optimization will fail during the release build.
 
